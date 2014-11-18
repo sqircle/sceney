@@ -1,0 +1,24 @@
+{
+  "name": "Sceney",
+  "version": "0.0.1",
+  "description": "A scene graph in CoffeeScript",
+  "homepage": "https://github.com/sqircle/Sceney",
+  "keywords": [],
+  "author": "K-2052 <k@2052.me>",
+  "main": "dist/js/Sceney.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sqircle/Sceney.js.git"
+  },
+  "direct": true,
+  "dependencies": {
+    "jquery": "~2.0.3"
+  },
+  "devDependencies": {
+    "sinon": "~1.9.1",
+    "chai": "~1.9.1",
+    "chai-jquery": "~1.2.1",
+    "mocha": "~1.18.2",
+    "sinon-chai": "~2.5.0"
+  }
+}
